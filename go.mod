@@ -4,8 +4,6 @@ go 1.24.5
 
 require github.com/luxfi/geth v1.16.1
 
-replace github.com/luxfi/geth => ../geth
-
 require (
 	github.com/Microsoft/go-winio v0.6.2 // indirect
 	github.com/bits-and-blooms/bitset v1.20.0 // indirect
