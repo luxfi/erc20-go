@@ -8,8 +8,8 @@ package main
 import (
 	"github.com/luxfi/erc20-go/erc20"
 	"fmt"
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/ethclient"
+	"github.com/luxfi/geth/common"
+	"github.com/luxfi/geth/ethclient"
 )
 
 type Config struct {
