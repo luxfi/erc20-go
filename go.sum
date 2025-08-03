@@ -117,10 +117,10 @@ github.com/kylelemons/godebug v1.1.0 h1:RPNrshWIDI6G2gRW9EHilWtl7Z6Sb1BR0xunSBf0
 github.com/kylelemons/godebug v1.1.0/go.mod h1:9/0rRGxNHcop5bhtWyNeEfOS8JIWk580+fNqagV/RAw=
 github.com/leanovate/gopter v0.2.11 h1:vRjThO1EKPb/1NsDXuDrzldR28RLkBflWYcU9CvzWu4=
 github.com/leanovate/gopter v0.2.11/go.mod h1:aK3tzZP/C+p1m3SPRE4SYZFGP7jjkuSI4f7Xvpt0S9c=
-github.com/luxfi/crypto v1.1.1 h1:6roT/QzdwUoz3v7Fv2bM1s1CyCp/UpEnG7yRVWbw0do=
-github.com/luxfi/crypto v1.1.1/go.mod h1:Wt4fomM14VWfQ/89PZh1dApz+0XteEG9x99Q9SHIRtY=
-github.com/luxfi/database v1.1.4 h1:C8yFA7ilwYnde/+tjSif9RgBlC9mN8Lj52jIIv/Vayk=
-github.com/luxfi/database v1.1.4/go.mod h1:/dUq+IYFvgFitQEXr4zj/9jJ0cjT/bf5558pB1rKpX8=
+github.com/luxfi/crypto v1.2.0 h1:mvsD48VvEeFyUOMwlJlRXm48DqC3vQJjxuDek/8y42U=
+github.com/luxfi/crypto v1.2.0/go.mod h1:Wt4fomM14VWfQ/89PZh1dApz+0XteEG9x99Q9SHIRtY=
+github.com/luxfi/geth v1.16.9 h1:9Hm/T/dKfmy3tPr+Lc6LQIshfitGLVqICAyg19Bhgwg=
+github.com/luxfi/geth v1.16.9/go.mod h1:RSYtOoUalhirftZSNxPcUL5oxDu3VTZpvuNJueaJegY=
 github.com/luxfi/ids v0.1.1 h1:ga/sNdsDEpkOB1B89BWVsGowCECOK3FfXiy7EgeumzQ=
 github.com/luxfi/ids v0.1.1/go.mod h1:eDCgoPXogp6hvVTSbxuplbc297jq0r6ftOZEKt6jSgY=
 github.com/mattn/go-colorable v0.1.14 h1:9A9LHSqF/7dyVVX6g0U9cwm9pG3kP9gSzcuIPHPsaIE=
