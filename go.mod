@@ -19,8 +19,8 @@ require (
 	github.com/google/uuid v1.6.0 // indirect
 	github.com/gorilla/websocket v1.5.1 // indirect
 	github.com/holiman/uint256 v1.3.2 // indirect
-	github.com/luxfi/crypto v1.2.0 // indirect
-	github.com/luxfi/ids v0.1.1 // indirect
+	github.com/luxfi/crypto v1.2.9 // indirect
+	github.com/luxfi/ids v1.0.2 // indirect
 	github.com/mr-tron/base58 v1.2.0 // indirect
 	github.com/shirou/gopsutil v3.21.11+incompatible // indirect
 	github.com/supranational/blst v0.3.15 // indirect
