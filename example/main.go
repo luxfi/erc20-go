@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/luxfi/erc20-go/erc20"
 	"fmt"
+	"github.com/luxfi/erc20-go/erc20"
 	"github.com/luxfi/geth/common"
 	"github.com/luxfi/geth/ethclient"
 )
