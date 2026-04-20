@@ -6,11 +6,11 @@ require github.com/luxfi/geth v1.16.73
 
 require (
 	github.com/Microsoft/go-winio v0.6.2 // indirect
-	github.com/ProjectZKM/Ziren/crates/go-runtime/zkvm_runtime v0.0.0-20251230134950-44c893854e3f // indirect
+	github.com/ProjectZKM/Ziren/crates/go-runtime/zkvm_runtime v0.0.0-20260215031811-a0ab0b218a81 // indirect
 	github.com/bits-and-blooms/bitset v1.24.4 // indirect
 	github.com/cloudflare/circl v1.6.3 // indirect
 	github.com/consensys/gnark-crypto v0.19.2 // indirect
-	github.com/crate-crypto/go-eth-kzg v1.4.0 // indirect
+	github.com/crate-crypto/go-eth-kzg v1.5.0 // indirect
 	github.com/crate-crypto/go-ipa v0.0.0-20240724233137-53bbb0ceb27a // indirect
 	github.com/deckarep/golang-set/v2 v2.8.0 // indirect
 	github.com/decred/dcrd/dcrec/secp256k1/v4 v4.4.0 // indirect
@@ -23,7 +23,7 @@ require (
 	github.com/gorilla/rpc v1.2.1 // indirect
 	github.com/gorilla/websocket v1.5.4-0.20250319132907-e064f32e3674 // indirect
 	github.com/holiman/uint256 v1.3.2 // indirect
-	github.com/klauspost/compress v1.18.3 // indirect
+	github.com/klauspost/compress v1.18.4 // indirect
 	github.com/luxfi/cache v1.2.1 // indirect
 	github.com/luxfi/concurrent v0.0.3 // indirect
 	github.com/luxfi/consensus v1.22.63 // indirect
@@ -43,11 +43,12 @@ require (
 	github.com/tklauser/go-sysconf v0.3.16 // indirect
 	github.com/tklauser/numcpus v0.11.0 // indirect
 	github.com/yusufpapurcu/wmi v1.2.4 // indirect
+	go.opentelemetry.io/otel v1.40.0 // indirect
 	go.uber.org/mock v0.6.0 // indirect
-	golang.org/x/crypto v0.47.0 // indirect
-	golang.org/x/exp v0.0.0-20260112195511-716be5621a96 // indirect
-	golang.org/x/net v0.49.0 // indirect
+	golang.org/x/crypto v0.48.0 // indirect
+	golang.org/x/exp v0.0.0-20260212183809-81e46e3db34a // indirect
+	golang.org/x/net v0.50.0 // indirect
 	golang.org/x/sync v0.19.0 // indirect
-	golang.org/x/sys v0.40.0 // indirect
+	golang.org/x/sys v0.41.0 // indirect
 	google.golang.org/protobuf v1.36.11 // indirect
 )
