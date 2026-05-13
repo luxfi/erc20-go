@@ -24,11 +24,12 @@ require (
 	github.com/gorilla/websocket v1.5.4-0.20250319132907-e064f32e3674 // indirect
 	github.com/holiman/uint256 v1.3.2 // indirect
 	github.com/klauspost/compress v1.18.4 // indirect
+	github.com/luxfi/accel v1.0.7 // indirect
 	github.com/luxfi/cache v1.2.1 // indirect
 	github.com/luxfi/concurrent v0.0.3 // indirect
 	github.com/luxfi/consensus v1.22.63 // indirect
 	github.com/luxfi/container v0.0.4 // indirect
-	github.com/luxfi/crypto v1.17.40 // indirect
+	github.com/luxfi/crypto v1.19.0 // indirect
 	github.com/luxfi/database v1.17.40 // indirect
 	github.com/luxfi/ids v1.2.9 // indirect
 	github.com/luxfi/math v1.4.0 // indirect
