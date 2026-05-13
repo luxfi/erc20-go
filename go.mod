@@ -1,6 +1,6 @@
 module github.com/luxfi/erc20-go
 
-go 1.26.1
+go 1.26.3
 
 require github.com/luxfi/geth v1.16.73
 
@@ -31,7 +31,7 @@ require (
 	github.com/luxfi/crypto v1.17.40 // indirect
 	github.com/luxfi/database v1.17.40 // indirect
 	github.com/luxfi/ids v1.2.9 // indirect
-	github.com/luxfi/math v1.2.3 // indirect
+	github.com/luxfi/math v1.4.0 // indirect
 	github.com/luxfi/math/big v0.1.0 // indirect
 	github.com/luxfi/metric v1.4.11 // indirect
 	github.com/luxfi/mock v0.1.1 // indirect
@@ -45,10 +45,10 @@ require (
 	github.com/yusufpapurcu/wmi v1.2.4 // indirect
 	go.opentelemetry.io/otel v1.40.0 // indirect
 	go.uber.org/mock v0.6.0 // indirect
-	golang.org/x/crypto v0.48.0 // indirect
-	golang.org/x/exp v0.0.0-20260212183809-81e46e3db34a // indirect
-	golang.org/x/net v0.50.0 // indirect
-	golang.org/x/sync v0.19.0 // indirect
-	golang.org/x/sys v0.41.0 // indirect
+	golang.org/x/crypto v0.49.0 // indirect
+	golang.org/x/exp v0.0.0-20260312153236-7ab1446f8b90 // indirect
+	golang.org/x/net v0.51.0 // indirect
+	golang.org/x/sync v0.20.0 // indirect
+	golang.org/x/sys v0.42.0 // indirect
 	google.golang.org/protobuf v1.36.11 // indirect
 )
