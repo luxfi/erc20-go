@@ -1,6 +1,6 @@
 module github.com/luxfi/erc20-go
 
-go 1.26.3
+go 1.26.4
 
 require github.com/luxfi/geth v1.16.73
 
