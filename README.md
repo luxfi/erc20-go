@@ -1,3 +1,5 @@
+<p align="center"><img src=".github/hero.svg" alt="erc20-go" width="880"></p>
+
 # erc20-go
 Golang interacts with erc20
 
